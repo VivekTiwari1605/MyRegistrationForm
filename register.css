@@ -1,0 +1,103 @@
+body{
+    background-image: url("image3.jpg");
+    background-size: 100%;
+}
+.signup{
+border: 2px black solid;
+border-radius: 12px;
+margin-left: 700px;
+align-items: center;
+width: 700px;    
+margin-top: 150px;    
+text-align: center;
+}
+#signuphead{
+    font-size: 60px;
+}
+#name,#email,#pd{
+    width: 360px;
+    margin: auto;
+    font-size: 30px;
+    margin-bottom: 10px;
+    padding:  5px 10px 5px 10px;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+#Dob{
+    margin-left: 40px;
+    font-size: 30px;
+    width: 360px;
+    margin-bottom: 10px;
+    padding:  5px 10px 5px 10px;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+#city{
+    margin-left: 50px;
+    font-size: 30px;
+    width: 390px;
+    margin-bottom: 10px;
+    padding:  5px 10px 5px 10px;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+.lbl {
+    float: left;
+    margin-left: 15px;
+    margin-top: 5px;
+    font-size: 30px;
+}
+.choice{
+    margin-left: 15px;
+    width: fit-content;
+}
+label{
+    display: block;
+    margin-left: 5px;
+    font-size: 30px;
+}
+input.box {
+    margin: auto;
+    width: 25px;
+    height: 25px;
+}
+#registerbtn{
+    width: 620px;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    margin-top: 10px;
+    padding:  5px 10px 5px 10px;
+    border-radius: 10px;
+}
+#registerbtn:hover{
+    width: 620px;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    margin-top: 10px;
+    padding:  5px 10px 5px 10px;
+    background-color: red;
+    border-radius: 10px;
+}
+#resetbtn{
+    width: 620px;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding:  5px 10px 5px 10px;
+    border-radius: 10px;
+}
+#resetbtn:hover{
+    width: 620px;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding:  5px 10px 5px 10px;
+    background-color: red;
+    border-radius: 10px;
+}
